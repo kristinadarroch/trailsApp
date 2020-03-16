@@ -1,0 +1,7 @@
+{
+  "name": "trailApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
