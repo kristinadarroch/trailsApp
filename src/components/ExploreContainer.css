@@ -22,3 +22,7 @@
 .container a {
   text-decoration: none;
 }
+
+.picture{
+  height: 500px;
+}
